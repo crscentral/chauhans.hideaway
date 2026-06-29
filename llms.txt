@@ -1,0 +1,19 @@
+# The Chauhans Hideaway
+
+An exclusive luxury heritage wedding and event venue located in Devliya, Banar, Jodhpur, Rajasthan, India. Managed by CRS Chauhan Private Limited.
+
+## Core Pages
+- [Homepage](index.html): Overview of the venue, legacy, spaces, and booking.
+- [About](about.html): Details about the hosts, the land, and the history.
+- [Legacy](legacy.html): The 1,500-year historical chronicle of the Chauhan Rajputs.
+- [Venue](venue.html): Details about the setting, spaces, and capacity.
+- [Events](events.html): Types of events hosted (Weddings, Haldi, Sangeet, Corporate, Shoots).
+- [Gallery](gallery.html): Visual archives and moments.
+- [Availability](availability.html): Interactive calendar to check date availability.
+- [Enquiry](enquiry.html): Concierge enquiry submission form.
+- [Contact & Location](location.html): Travel distances, map, and contact details.
+
+## Contact Information
+- Email: gm.hideaway@outlook.com
+- Phone/WhatsApp: +91 91217 73501
+- Address: Devliya, Banar, Jodhpur, Rajasthan 342027
